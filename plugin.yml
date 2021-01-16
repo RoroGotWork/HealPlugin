@@ -1,0 +1,8 @@
+name: HealPlugin
+version: 0.1
+author: Rorocraft
+main: fr.rorocraft.heal.Heal
+commands:
+  heal:
+    permission: heal.use
+    description: Heal le joueur

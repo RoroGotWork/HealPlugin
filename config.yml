@@ -1,0 +1,3 @@
+heal_level: 20
+cooldown_time:  120
+message: 'Tu as ete heal'
